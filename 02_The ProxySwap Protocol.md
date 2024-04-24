@@ -8,6 +8,7 @@ The protocol is implemented as a set of persistent, non-upgradable smart contrac
 
 The ProxySwap protocol is forked from one of the multiple Uniswap protocols. Uniswap V1 and V2 are open source and licensed under GPL. V3 however, the version based on which ProxySwap protocol is created, is open source with slight modifications, which are viewable [here](https://github.com/Uniswap/uniswap-v3-core/blob/main/LICENSE). This very version of ProxySwap, once deployed, will function in perpetuity, with 100% uptime, provided the continued existence of the [DegenChain](https://bridge.degen.tips/) L3 blockchain.
 
+<br/><br/>
 ## How does the ProxySwap protocol compare to a typical market?
 To understand how the ProxySwap protocol, just like the Uniswap protocol, differs from a traditional exchange, it is helpful to first look at two subjects: how the Automated Market Maker design deviates from traditional central limit order book-based exchanges, and how permissionless systems depart from conventional permissioned systems.
 
@@ -30,7 +31,7 @@ For research into the economics of AMMs, game theory, or optimization research, 
 
 For features implemented in V3 that expand and refine the AMM design, see the [V3 Concepts](https://docs.uniswap.org/concepts/protocol/concentrated-liquidity) page.
 
-======
+----------
 
 ###### 1. Ethereum protocols are sometimes referred to as peer-to-contract systems as well. These are similar to a peer-to-peer systems, but with immutable, persistent programs known as smart contracts taking the place of a peer.
 
