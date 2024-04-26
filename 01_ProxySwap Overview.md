@@ -11,3 +11,5 @@ To begin, we should make clear the distinctions between the different areas of "
 * The ProxySwap Interface: A web interface that allows for easy interaction with the ProxySwap protocol. The interface is only one of many ways one may interact with the ProxySwap protocol.
   
 * ProxySwap Governance DAO: A governance system for governing the ProxySwap Protocol, enabled by the $PROXY token.
+
+Please note that as the ProxySwap protocol is an identical fork of Uniswap V3 protocol, most of the documentation and concepts implemented in the DEX are the same.
