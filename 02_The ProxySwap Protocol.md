@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The ProxySwap protocol is the first Uniswap V3 fork decentralized exchange (DEX) protocol, forked and modified from the Uniswap protocol, is a peer-to-peer<sup>[1](#1-ethereum-protocols-are-sometimes-referred-to-as-peer-to-contract-systems-as-well-these-are-similar-to-a-peer-to-peer-systems-but-with-immutable-persistent-programs-known-as-smart-contracts-taking-the-place-of-a-peer)</sup> system designed for exchanging cryptocurrencies (ERC-20 Tokens) on the [DegenChain](https://bridge.degen.tips/) L3 blockchain. 
+The ProxySwap protocol is the first Uniswap V3-fork decentralized exchange (DEX) protocol, forked from the Uniswap protocol identically, is a peer-to-peer<sup>[1](#1-ethereum-protocols-are-sometimes-referred-to-as-peer-to-contract-systems-as-well-these-are-similar-to-a-peer-to-peer-systems-but-with-immutable-persistent-programs-known-as-smart-contracts-taking-the-place-of-a-peer)</sup> system designed for exchanging cryptocurrencies (ERC-20 Tokens) on the [DegenChain](https://bridge.degen.tips/) L3 blockchain. 
 
 The protocol is implemented as a set of persistent, non-upgradable smart contracts; designed to prioritize censorship resistance, security, self-custody, and to function without any trusted intermediaries who may selectively restrict access. Nevertheless, the protocol is still in its nascent stages of development and may see more features being developed as part of its periphery libraries.
 
