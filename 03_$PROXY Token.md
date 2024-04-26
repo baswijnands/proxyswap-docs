@@ -48,6 +48,11 @@ ProxySwap is deployed in the DegenChain Layer-3 blockchain. As such, gas fees fo
 
 ![Enter Amount](./docs/images/bridge-tutorial-05.png)
 
+6. Approve the transaction. and the execution of the trade swap.
+<br/>[Top of Section](#bridging-degen)
+
+![Enter Amount](./docs/images/bridge-tutorial-06.png)
+
 </details>
 
 ### Token Swap for $PROXY using $DEGEN
