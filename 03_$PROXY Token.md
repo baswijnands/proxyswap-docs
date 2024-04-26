@@ -15,3 +15,7 @@ ProxySwap is deployed in the DegenChain Layer-3 blockchain. As such, gas fees fo
 2. Connect your Wallet. This assumes you are using a self-custodial crypto wallet browser extensions such as Coinbase Wallet, Metamask, Rainbow, Zapper, Zerion for popular examples.
 
 ![Connect your Wallet](./docs/images/connect-wallet.gif)
+
+3. Click 'Select Token' dropdown on the From section.
+
+![From Token](./docs/images/from-token.png)
