@@ -2,6 +2,19 @@
 
 The $PROXY ERC-20 token is the native governance token of ProxySwap DAO.
 
+## Official Links
+
+### Dexscreener Link
+
+`https://dexscreener.com/degenchain/0xca5470b938db72887b420ac7688e8a14bea8b4de` - [🔗](https://dexscreener.com/degenchain/0xca5470b938db72887b420ac7688e8a14bea8b4de)
+
+### Contract Address
+
+```
+0xA051A2Cb19C00eCDffaE94D0Ff98c17758041D16
+```
+`https://explorer.degen.tips/token/0xA051A2Cb19C00eCDffaE94D0Ff98c17758041D16` - [🔗](https://explorer.degen.tips/token/0xA051A2Cb19C00eCDffaE94D0Ff98c17758041D16)
+
 ## Getting Started
 
 ### Bridging $DEGEN 
