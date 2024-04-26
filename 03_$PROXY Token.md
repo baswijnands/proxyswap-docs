@@ -23,12 +23,16 @@ ProxySwap is deployed in the DegenChain Layer-3 blockchain. As such, gas fees fo
 
 1. Go to `https://bridge.degen.tips/`  - [🔗](https://bridge.degen.tips/)
 
-![DegenChain Bridge website](./docs/images/degenchain-bridge.png)
+![DegenChain Bridge website](./docs/images/bridge-tutorial-01.png)
 
 2. Connect your Wallet. This assumes you are using a self-custodial crypto wallet browser extensions such as Coinbase Wallet, Metamask, Rainbow, Zapper, Zerion for popular examples.
 
-![Connect your Wallet](./docs/images/connect-wallet.gif)
+![Connect your Wallet](./docs/images/bridge-tutorial-02.gif)
 
 3. Click 'Select Token' dropdown on the From section.
 
-![From Token](./docs/images/from-token.png)
+![From Token](./docs/images/bridge-tutorial-03.png)
+
+4. Select Base as Network and DEGEN as Token
+
+![From Token2](./docs/images/bridge-tutorial-04.png)
